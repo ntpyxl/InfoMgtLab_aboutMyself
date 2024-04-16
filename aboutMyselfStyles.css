@@ -1,0 +1,55 @@
+body {
+	background-color: black; 
+}
+
+a {
+	color: cyan;
+}
+
+p {
+	color: white;
+}
+
+h1 {
+	color: white;
+}
+
+h3 {
+	color: white;
+}
+
+ul {
+	color: white;
+}
+
+.header {
+	display: table;
+	width: 100%;
+}
+
+.header img {
+	float: left;
+	margin-right: 1%;
+}
+
+.header h1 {
+	float: middle;
+}
+
+.header p {
+	float: middle;
+}
+
+.mainContent {
+	display:flex;
+}
+
+.careerPlan {
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+.gamesPlayed {
+	margin-left: 2%;
+	margin-right: 2%;
+}
